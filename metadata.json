@@ -1,0 +1,7 @@
+{
+  "name": "Reroom",
+  "description": "An interactive room makeover app powered by Gemini. Upload a photo, reimagine styles, and refine designs with a context-aware chat assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
